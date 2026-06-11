@@ -1,0 +1,5 @@
+# File associations for the Terminal app
+# Extensions start with '.' (e.g. .txt .png)
+# MIME types contain '/' (e.g. text/plain image/png)
+# Use --reset to restore default (*/* generic support)
+
