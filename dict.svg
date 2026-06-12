@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- 书脊 -->
+  <rect x="30" y="40" width="25" height="120" rx="6" stroke="#ffffff" stroke-width="4"/>
+  
+  <!-- 封面 -->
+  <rect x="50" y="35" width="120" height="130" rx="6" stroke="#ffffff." stroke-width="4"/>
+  
+  <!-- 封面装饰线（模拟文字行） -->
+  <line x1="65" y1="65" x2="155" y2="65" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <line x1="65" y1="85" x2="140" y2="85" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <line x1="65" y1="105" x2="140" y2="105" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <line x1="65" y1="125" x2="140" y2="125" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- 书页侧边 -->
+  <path d="M 177 156 L 177 44" stroke="#ffffff" stroke-width="2" fill="none"/>
+  <path d="M 174 160 L 174 40" stroke="#ffffff" stroke-width="2" fill="none"/>
+  
+  <!-- 底部书页厚度 -->
+  <path d="M 54 169 L 166 169" stroke="#ffffff" stroke-width="2" fill="none"/>
+</svg>

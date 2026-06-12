@@ -1,10 +1,13 @@
 <?xml version="1.0" ?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="200.0" android:viewportHeight="200.0">
     <!-- Auto-generated notification icon from SVG. Size: 48dp. fillColor forced to #ffffff for Android notification compatibility. -->
-    <path android:pathData="M 58.000000,45.000000 L 147.000000,45.000000 A 3.000000,3.000000 0.000000 0,1 150.000000,48.000000 L 150.000000,152.000000 A 3.000000,3.000000 0.000000 0,1 147.000000,155.000000 L 58.000000,155.000000 A 3.000000,3.000000 0.000000 0,1 55.000000,152.000000 L 55.000000,48.000000 A 3.000000,3.000000 0.000000 0,1 58.000000,45.000000 Z" android:fillColor="#ffffff"/>
-    <path android:pathData="M 55.000000,45.000000 L 55.000000,155.000000" android:fillColor="#ffffff"/>
-    <path android:pathData="M 60.000000,55.000000 L 145.000000,55.000000" android:fillColor="#ffffff"/>
-    <path android:pathData="M 60.000000,65.000000 L 145.000000,65.000000" android:fillColor="#ffffff"/>
-    <path android:pathData="M 85.000000,95.000000 L 95.000000,75.000000 L 105.000000,95.000000 M 90.000000,87.000000 L 100.000000,87.000000" android:fillColor="#ffffff"/>
-    <path android:pathData="M 115.000000,75.000000 L 135.000000,75.000000 L 115.000000,95.000000 L 135.000000,95.000000" android:fillColor="#ffffff"/>
+    <path android:pathData="M 36.000000,40.000000 L 49.000000,40.000000 A 6.000000,6.000000 0.000000 0,1 55.000000,46.000000 L 55.000000,154.000000 A 6.000000,6.000000 0.000000 0,1 49.000000,160.000000 L 36.000000,160.000000 A 6.000000,6.000000 0.000000 0,1 30.000000,154.000000 L 30.000000,46.000000 A 6.000000,6.000000 0.000000 0,1 36.000000,40.000000 Z" android:fillColor="#ffffff"/>
+    <path android:pathData="M 56.000000,35.000000 L 164.000000,35.000000 A 6.000000,6.000000 0.000000 0,1 170.000000,41.000000 L 170.000000,159.000000 A 6.000000,6.000000 0.000000 0,1 164.000000,165.000000 L 56.000000,165.000000 A 6.000000,6.000000 0.000000 0,1 50.000000,159.000000 L 50.000000,41.000000 A 6.000000,6.000000 0.000000 0,1 56.000000,35.000000 Z" android:fillColor="#ffffff"/>
+    <path android:pathData="M 65.000000,65.000000 L 155.000000,65.000000" android:fillColor="#ffffff"/>
+    <path android:pathData="M 65.000000,85.000000 L 140.000000,85.000000" android:fillColor="#ffffff"/>
+    <path android:pathData="M 65.000000,105.000000 L 140.000000,105.000000" android:fillColor="#ffffff"/>
+    <path android:pathData="M 65.000000,125.000000 L 140.000000,125.000000" android:fillColor="#ffffff"/>
+    <path android:pathData="M 177.000000,156.000000 L 177.000000,44.000000" android:fillColor="#ffffff"/>
+    <path android:pathData="M 174.000000,160.000000 L 174.000000,40.000000" android:fillColor="#ffffff"/>
+    <path android:pathData="M 54.000000,169.000000 L 166.000000,169.000000" android:fillColor="#ffffff"/>
 </vector>
