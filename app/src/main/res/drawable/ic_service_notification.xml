@@ -1,13 +1,21 @@
 <?xml version="1.0" ?>
-<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="200.0" android:viewportHeight="200.0">
-    <!-- Auto-generated notification icon from SVG. Size: 48dp. fillColor forced to #ffffff for Android notification compatibility. -->
-    <path android:pathData="M 36.000000,40.000000 L 49.000000,40.000000 A 6.000000,6.000000 0.000000 0,1 55.000000,46.000000 L 55.000000,154.000000 A 6.000000,6.000000 0.000000 0,1 49.000000,160.000000 L 36.000000,160.000000 A 6.000000,6.000000 0.000000 0,1 30.000000,154.000000 L 30.000000,46.000000 A 6.000000,6.000000 0.000000 0,1 36.000000,40.000000 Z" android:fillColor="#ffffff"/>
-    <path android:pathData="M 56.000000,35.000000 L 164.000000,35.000000 A 6.000000,6.000000 0.000000 0,1 170.000000,41.000000 L 170.000000,159.000000 A 6.000000,6.000000 0.000000 0,1 164.000000,165.000000 L 56.000000,165.000000 A 6.000000,6.000000 0.000000 0,1 50.000000,159.000000 L 50.000000,41.000000 A 6.000000,6.000000 0.000000 0,1 56.000000,35.000000 Z" android:fillColor="#ffffff"/>
-    <path android:pathData="M 65.000000,65.000000 L 155.000000,65.000000" android:fillColor="#ffffff"/>
-    <path android:pathData="M 65.000000,85.000000 L 140.000000,85.000000" android:fillColor="#ffffff"/>
-    <path android:pathData="M 65.000000,105.000000 L 140.000000,105.000000" android:fillColor="#ffffff"/>
-    <path android:pathData="M 65.000000,125.000000 L 140.000000,125.000000" android:fillColor="#ffffff"/>
-    <path android:pathData="M 177.000000,156.000000 L 177.000000,44.000000" android:fillColor="#ffffff"/>
-    <path android:pathData="M 174.000000,160.000000 L 174.000000,40.000000" android:fillColor="#ffffff"/>
-    <path android:pathData="M 54.000000,169.000000 L 166.000000,169.000000" android:fillColor="#ffffff"/>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="200.0"
+    android:viewportHeight="200.0">
+    
+    <path android:pathData="M 36,40 L 49,40 A 6,6 0 0,1 55,46 L 55,154 A 6,6 0 0,1 49,160 L 36,160 A 6,6 0 0,1 30,154 L 30,46 A 6,6 0 0,1 36,40 Z" android:fillColor="#ffffff"/>
+    
+    <path android:pathData="M 56,35 L 164,35 A 6,6 0 0,1 170,41 L 170,159 A 6,6 0 0,1 164,165 L 56,165 A 6,6 0 0,1 50,159 L 50,41 A 6,6 0 0,1 56,35 Z" android:fillColor="#ffffff"/>
+    
+    <path android:pathData="M 65,61 L 155,61 L 155,67 L 65,67 Z" android:fillColor="#ffffff"/>
+    <path android:pathData="M 65,81 L 145,81 L 145,87 L 65,87 Z" android:fillColor="#ffffff"/>
+    <path android:pathData="M 65,101 L 145,101 L 145,107 L 65,107 Z" android:fillColor="#ffffff"/>
+    <path android:pathData="M 65,121 L 135,121 L 135,127 L 65,127 Z" android:fillColor="#ffffff"/>
+    
+    <path android:pathData="M 174,44 L 180,44 L 180,156 L 174,156 Z" android:fillColor="#ffffff"/>
+    <path android:pathData="M 171,40 L 177,40 L 177,160 L 171,160 Z" android:fillColor="#ffffff"/>
+    
+    <path android:pathData="M 54,166 L 166,166 L 166,172 L 54,172 Z" android:fillColor="#ffffff"/>
 </vector>
